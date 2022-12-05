@@ -10,12 +10,10 @@ let division = (num1/num3)
 console.log(division)
 
 
-
 let num4 = 15
 let num5 = 9
 let modulo = num4%num5
 console.log(modulo)
-
 
 
 let y = 10
